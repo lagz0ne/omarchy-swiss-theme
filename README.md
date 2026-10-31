@@ -2,7 +2,9 @@
 
 Dark and quiet: hairline borders, squircle corners, greyscale with one warm orange.
 
-![Preview](preview.png)
+[![Preview](https://raw.githubusercontent.com/lagz0ne/omarchy-swiss/main/docs/swiss.webp)](https://github.com/lagz0ne/omarchy-swiss/releases/download/v1.0/omarchy-swiss.mp4)
+
+<sub>Click the preview for the full-quality video.</sub>
 
 ## Install
 
